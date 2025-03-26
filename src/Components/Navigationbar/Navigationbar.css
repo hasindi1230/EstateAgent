@@ -1,0 +1,49 @@
+.Navbar{
+    background-color: rgb(219, 231, 244);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    z-index: 1000;
+    width: 100vw;
+    top: 0;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    top: 40px;
+    border-radius: 50%;
+    
+}
+.name{
+    font-family: it;
+    font-weight: bolder;
+    margin: 5px;
+    gap: 5px;
+}
+
+.wholeLinks{
+    align-items: center; 
+    justify-content: end;  
+}
+.links{
+    font-weight: bold;
+    display: flex;
+    gap: 80px; 
+    
+}
+
+.links a{
+    border-radius: 10px;
+}
+
+.links a:hover{
+    color: #79879d;
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+
+.collapse-navbar .links a{
+    color: black;
+    padding: 20px;
+}

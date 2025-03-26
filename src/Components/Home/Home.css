@@ -1,0 +1,222 @@
+body{
+    background-color: rgb(219, 231, 244);
+}
+h1{
+    margin-top: 200px;
+}
+.change{
+    content: "Rentals!";
+    color:  rgb(71, 171, 230);
+}
+#homeimg{
+    display: block;
+    margin:  auto;
+    border-radius: 20px;
+    margin-left: 180px;
+    max-width: 100%;
+    max-height: 1200px !important;
+    object-fit: cover;
+    margin-top: 50px;
+    width: 90%;
+}
+
+.feature-box {
+    background: #f8f9fa;
+    border-radius: 12px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px; /* Ensures equal height */
+}
+  
+.feature-box h5 {
+    margin-bottom: 10px;
+}
+  
+.feature-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+}
+.text-center {
+    text-align: center;
+}
+.container.mt-5 {
+    margin-top: 120px !important; /* Adjust the value as needed */
+}
+.heading2{
+    color: navy;
+}
+
+/* search bar and image */
+.search-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .search-image {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    opacity: 0.4; /* Low opacity for background image */
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background: rgba(0, 0, 0, 0.4); /* Dark overlay */
+  }
+  
+  .search-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .search-input {
+    border: none;
+    padding: 10px;
+    width: 100%;
+    max-width: 400px; /* Maximum width */
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .search-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #3498db;
+  }
+  
+  .search-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-button:hover {
+    background-color: #3498db;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .search-input {
+      width: 80%;
+      margin-bottom: 10px;
+    }
+  
+    .search-button {
+      width: 50px;
+      height: 50px;
+    }
+  }
+
+main{
+    position: relative;    
+}
+.lead{
+    font-weight: bold;
+}
+
+/* featured properties */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-img-top {
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+    height: 250px;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #6c757d;
+  }
+.featured-heading{
+    color: navy;
+    font-weight: bold;
+    margin-top: -100px;
+}
+.featured-para{
+    text-align: center;
+    justify-content: center ;
+    font-size: large;
+    margin-top: -50px;
+}
+
+
+/* for the text overlaying on the image */
+/* .text{
+    position: absolute;
+    display: flex;
+    gap: 80px;
+    top: 45%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    background-color:rgb(71, 171, 230);
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+
+.search{
+    position: absolute;
+    text-align: center;
+    display: flex; 
+    gap: 80px;
+    top: 70%;
+    left: 62%;
+    transform: translate(-50% , -50%);
+    font-weight: bolder;
+    background-color: rgb(249, 249, 249);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.search input{
+    border: none;
+    background-color: rgb(249, 249, 249)
+}
+
+.search input:focus{
+    outline: none;
+}
+button{
+    border-color: rgb(71, 171, 230);;
+} */
+
+
+

@@ -1,0 +1,16 @@
+.contact{
+    margin-left: 48%;
+    justify-content: center;
+    margin-top: 20px;
+}
+.contactDetails{
+    margin-top: 60px;
+    border: 2px solid black;
+    padding: 20px;
+    width: max-content;
+    justify-content: center;
+    margin-left: 30%;
+}
+.contactDetails h3{
+    text-align: center;
+} 

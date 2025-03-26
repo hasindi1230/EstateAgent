@@ -1,0 +1,95 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":2000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+			"picture":"/prop1small.jpeg",
+			"url":"prop1",
+            "added": "2022-October-12"
+        },
+
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":1000,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"/prop2small.webp",
+			"url":"prop2",
+            "added": "2022-September-14"
+        },
+
+        {
+            "id":"prop3",
+			"type":"House",
+            "bedrooms":5,
+			"price":1900,
+			"tenure":"Freehold",
+			"description":"This impressive five bedroom detcahed house has over 1600 sqft of living accommodation, with five bedrooms, two reception rooms, a Kitchen-diner, study room, three bathrooms and off street parking for multiple cars the property is an ideal family home.",
+			"location":"8, Heathcote Grove, London, Greater London E4 6RT",
+			"picture":"/prop3small.webp",
+			"url":"prop3",
+            "added": "2023-January-12"
+        },
+
+        {
+            "id":"prop4",
+			"type":"Flat",
+            "bedrooms":1,
+			"price":900,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"105, Beresford Road, London, Greater London E4 6EF",
+			"picture":"/prop4small.jpeg",
+			"url":"prop4",
+            "added": "2023-March-20"
+        },
+
+        {
+            "id":"prop5",
+			"type":"House",
+            "bedrooms":4,
+			"price":1500,
+			"tenure":"Freehold",
+			"description":"A fabulous 4 bedroom townhouse offering versatile accommodation finished to a superb standard situated within walking distance to York City Centre. The property offers exceptional reception and entertaining space, well designed as well as benefitting from bespoke finishes, designer kitchen and modern decor throughout. family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior",
+			"location":"67, Kensington Street, York YO23 1JA",
+			"picture":"/prop5small.webp",
+			"url":"prop5",
+            "added": "2022-September-05"
+        },
+
+        {
+            "id":"prop6",
+			"type":"Flat",
+            "bedrooms":1,
+			"price": 800,
+			"tenure":"Freehold",
+			"description":"York are delighted to present this 1 bedroom first floor apartment in an ideal location less than a fifteen minute walk to York city centre, the train station and with an allocated parking space. You’re just minutes from top restaurants, shops, and cultural landmarks, making getting around for work or leisure easy. Newly refurbished, this apartment boasts a range of modern conveniences, including WiFi-controlled radiators, electric blinds, and internet.  The spacious bedroom features a king-sized bed for ultimate comfort, while a washer-dryer adds practicality for longer stays. ALL BILLS INCLUDED FOR AN ADDITIONAL £350 PER MONTH - INCLUDING WEEKLY CLEANS AND FRESH LINEN ",
+			"location":"88, Garfield Terrace, York YO26 4XU",
+			"picture":"/prop6small.jpg",
+			"url":"prop6",
+            "added": "2022-December-11"
+        },
+
+        {
+            "id":"prop7",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":1600,
+			"tenure":"Freehold",
+			"description":"ProBrook Properties are pleased to offer to the market this newly refurbished first floor flat within the New Glagow area. Offered to the market furnished, this spacious property is offered in walk in condition and is just a short walk from all city centre amenities including public transport and shopping facilities. Located on the banks of the River Clyde the apartments enjoy unrivaled views across the city, while amenities include a residents' only 24-hour gym, a games room, a private dining room with city views from the ninteenth floor, and co-working spaces.",
+			"location":"21 1/2, Earl Street, Glasgow, Gla G14 0BA",
+			"picture":"/prop7small.jpg",
+			"url":"prop7",
+            "added": "2023-March-11"
+        }
+
+
+]}
